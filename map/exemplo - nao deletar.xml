@@ -1,0 +1,19 @@
+<object-stream>
+  <map>
+    <line>1</line>
+    <column>1</column>
+    <size>100</size>
+    <typename>
+      <string>sand</string>
+    </typename>
+    <typenumber>
+      <int>1</int>
+    </typenumber>
+    <maptile>
+      <string>01</string>
+	  </maptile>
+    <maptype>
+      <int>1</int>
+    </maptype>
+  </map>
+</object-stream>
